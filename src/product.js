@@ -34,6 +34,7 @@ export default function Product(props) {
     // onClick={(e)=>ShowProduct(e)}
     />
     <div class='label'>
+      <button>add to cart</button>
     </div>
     </div>
   )

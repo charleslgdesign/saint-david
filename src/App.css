@@ -3,6 +3,29 @@
   to {opacity: 100%;}
 }
 
+li {
+  transition:.1s;
+  list-style-type:none;
+  color:#ffffff;
+  text-align:left;
+  cursor: pointer;
+  min-width:100px;
+}
+
+li:hover {
+  color:yellowgreen;
+}
+
+li:active {
+  color:blue;
+}
+
+nav {
+  background-color:#000000;
+  position:fixed;
+  top:0;
+  z-index:3;
+}
 
 
 .products-container {
@@ -220,5 +243,25 @@ margin-left:11%;
   }
 }   
 
+.checkout {
+  background-color:#ffffff;
+  width:100vw;
+  height:100vh;
+}
 
+.button-container {
+  background-color:#000000;
+}
+
+button {
+  margin-left:45%;
+  display:block;
+  color:#000000;
+  min-height:50px;
+  background-color:aqua;
+}
+
+button:active {
+  background-color:blue;
+}
 
