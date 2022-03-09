@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/charleslgdesigns/saint-david/static/css/main.e625c917.css",
-    "main.js": "/charleslgdesigns/saint-david/static/js/main.183d7580.js",
-    "static/js/787.579e236d.chunk.js": "/charleslgdesigns/saint-david/static/js/787.579e236d.chunk.js",
-    "static/media/logo.svg": "/charleslgdesigns/saint-david/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/charleslgdesigns/saint-david/index.html",
-    "main.e625c917.css.map": "/charleslgdesigns/saint-david/static/css/main.e625c917.css.map",
-    "main.183d7580.js.map": "/charleslgdesigns/saint-david/static/js/main.183d7580.js.map",
-    "787.579e236d.chunk.js.map": "/charleslgdesigns/saint-david/static/js/787.579e236d.chunk.js.map"
+    "main.css": "/charleslgdesigns/github.io/saint-david/static/css/main.e625c917.css",
+    "main.js": "/charleslgdesigns/github.io/saint-david/static/js/main.bc5ce1c8.js",
+    "static/js/787.579e236d.chunk.js": "/charleslgdesigns/github.io/saint-david/static/js/787.579e236d.chunk.js",
+    "static/media/logo.svg": "/charleslgdesigns/github.io/saint-david/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/charleslgdesigns/github.io/saint-david/index.html",
+    "main.e625c917.css.map": "/charleslgdesigns/github.io/saint-david/static/css/main.e625c917.css.map",
+    "main.bc5ce1c8.js.map": "/charleslgdesigns/github.io/saint-david/static/js/main.bc5ce1c8.js.map",
+    "787.579e236d.chunk.js.map": "/charleslgdesigns/github.io/saint-david/static/js/787.579e236d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e625c917.css",
-    "static/js/main.183d7580.js"
+    "static/js/main.bc5ce1c8.js"
   ]
 }
